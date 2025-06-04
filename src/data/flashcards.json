@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "Czym zajmuje się fizjologia mowy?",
+    "answer": "Fizjologia mowy zajmuje się badaniem ruchów mięśni biorących udział w artykułowaniu głosek oraz współzależności tych ruchów.",
+    "category": "Definicje"
+  },
+  {
+    "id": 2,
+    "question": "Co to jest homeostaza?",
+    "answer": "Homeostaza to zdolność organizmu do zachowania stałego środowiska wewnętrznego pomimo zmian w środowisku zewnętrznym.",
+    "category": "Pojęcia ogólne"
+  },
+  {
+    "id": 3,
+    "question": "Jakie trzy części wyróżnia się w funkcjonalnym podziale układu nerwowego?",
+    "answer": "Aferentną (informacyjną), nadrzędną (centralną), eferentną (ruchową).",
+    "category": "Układ nerwowy"
+  },
+  {
+    "id": 4,
+    "question": "Jakie narządy są zaangażowane w tworzenie głosu i mowy?",
+    "answer": "Układ oddechowy (płuca, oskrzela), fonacyjny (krtań), artykulacyjny (jama ustna, nosowa, gardło).",
+    "category": "Anatomia"
+  },
+  {
+    "id": 5,
+    "question": "Co to jest fonacja?",
+    "answer": "Fonacja to proces tworzenia dźwięku poprzez drganie fałdów głosowych w krtani.",
+    "category": "Procesy fizjologiczne"
+  },
+  {
+    "id": 6,
+    "question": "Czym różni się kompetencja językowa od sprawności językowej?",
+    "answer": "Kompetencja to wiedza społeczna o języku, a sprawność to indywidualna zdolność do jej realizacji w mowie.",
+    "category": "Lingwistyka"
+  },
+  {
+    "id": 7,
+    "question": "Jakie są funkcje prymarne układu ustno-twarzowego?",
+    "answer": "Oddychanie, ssanie, połykanie, żucie i gryzienie – rozwijają się przed mową.",
+    "category": "Rozwój mowy"
+  },
+  {
+    "id": 8,
+    "question": "Dlaczego oddech przez nos jest preferowany?",
+    "answer": "Ponieważ oczyszcza, ogrzewa i nawilża powietrze oraz poprawia pobór tlenu.",
+    "category": "Oddychanie"
+  },
+  {
+    "id": 9,
+    "question": "Jakie elementy składają się na aparat głosowy?",
+    "answer": "Część motoryczna (oddechowa), głosotwórcza (krtań), artykulacyjno-rezonansowa (jama ustna, nosowa, gardło).",
+    "category": "Anatomia"
+  },
+  {
+    "id": 10,
+    "question": "Czym jest ton krtaniowy?",
+    "answer": "To podstawowy dźwięk powstały w krtani w wyniku fonacji.",
+    "category": "Akustyka"
+  }
+]
