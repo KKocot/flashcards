@@ -718,5 +718,245 @@
     "question": "Jaką rolę pełni przepona w procesie oddychania i fonacji?",
     "answer": "Główny mięsień wdechowy umożliwiający oddychanie torem brzusznym. W fonacji reguluje siłę wydechowego prądu powietrza. Przy skurczu spłaszcza się i obniża, zwiększając pojemność klatki piersiowej.",
     "category": "Anatomia"
+  },
+  {
+    "id": 121,
+    "question": "Co to jest fonacja?",
+    "answer": "Wytwarzanie głosu powstające dzięki odpowiedniej budowie i funkcjonowaniu aparatu głosotwórczego (krtani) oraz narządów mowy przy udziale wydychanego powietrza.",
+    "category": "Fizjologia"
+  },
+  {
+    "id": 122,
+    "question": "Jakie procesy muszą być zharmonizowane, aby powstał głos?",
+    "answer": "Oddychanie (dostarczenie strumienia powietrza), fonacja (proces tworzenia dźwięku), rezonans (wzmacnianie dźwięku w przestrzeniach rezonacyjnych) oraz artykulacja (przekształcanie tonu krtaniowego).",
+    "category": "Fizjologia"
+  },
+  {
+    "id": 123,
+    "question": "Z czego składa się część obwodowa narządu głosu?",
+    "answer": "Z krtani (generator dźwięku), klatki piersiowej i płuc wraz z oskrzelami i tchawicą oraz rezonatorów wzmacniających (jamy gardłowej, ustnej, nosowej i zatok).",
+    "category": "Anatomia"
+  },
+  {
+    "id": 124,
+    "question": "Jakie są cechy prawidłowego głosu?",
+    "answer": "Dźwięczny, czysty, pozbawiony komponenty szumowej, niemęczliwy, tworzony przy pomocy rezonatorów, z miękkim nastawieniem głosowym, bez zbędnego napięcia mięśni.",
+    "category": "Fizjologia"
+  },
+  {
+    "id": 125,
+    "question": "Co to jest dysfonia?",
+    "answer": "Zaburzenie głosu będące następstwem patologicznej zmiany w budowie narządu głosu lub jego czynnościach głosotwórczych. Objawia się zaburzeniami emisji głosu, jego charakteru, zakresu i czasu fonacji.",
+    "category": "Patologia"
+  },
+  {
+    "id": 126,
+    "question": "Czym charakteryzuje się miękkie nastawienie głosu?",
+    "answer": "Fałdy głosowe zaczynają drgać jednocześnie zbliżając się do siebie, w tym samym momencie przepływa strumień powietrza. Fonacja jest swobodna, bez zbędnych napięć, głos tworzony bezwysiłkowo.",
+    "category": "Fizjologia"
+  },
+  {
+    "id": 127,
+    "question": "Co to jest afonia?",
+    "answer": "Całkowita utrata możliwości wytwarzania głosu z powodu niedowładu mięśni krtaniowych.",
+    "category": "Patologia"
+  },
+  {
+    "id": 128,
+    "question": "Jakie są podstawowe typy nosowania?",
+    "answer": "Nosowanie otwarte (przy patologii zwierającego pierścienia gardłowego), nosowanie zamknięte (przy przeszkodzie w jamie nosowej) oraz nosowanie mieszane (współistnienie obu typów).",
+    "category": "Patologia"
+  },
+  {
+    "id": 129,
+    "question": "Co to jest impostacja głosu?",
+    "answer": "Prawidłowe ustawienie aparatu głosowego polegające na właściwej koordynacji czynności krtani, rezonatorów głosowych i układu oddechowego.",
+    "category": "Terapia"
+  },
+  {
+    "id": 130,
+    "question": "Jakie są podstawowe elementy higieny głosu?",
+    "answer": "Nawadnianie organizmu, nieprzeciążanie głosu, odpoczynek głosowy, profilaktyka, rezygnacja z używek, eliminacja stresorów, dbałość o sen i kondycję fizyczną, trening głosowy.",
+    "category": "Terapia"
+  },
+  {
+    "id": 131,
+    "question": "Co to jest chuchające nastawienie głosu?",
+    "answer": "Powietrze wydechowe wydostaje się przez krtań przed zbliżeniem fałdów głosowych, zwarcie jest niepełne, fonacji towarzyszy szmer przydechu. Prowadzi do dysfonii hipofunkcjonalnej.",
+    "category": "Patologia"
+  },
+  {
+    "id": 132,
+    "question": "Co to jest twarde nastawienie głosu?",
+    "answer": "Zbliżenie fałdów głosowych następuje przed początkiem wydechu, powietrze natrafia na zwarte fałdy i rozwiera je gwałtownie. Głos tworzony z wysiłkiem, prowadzi do dysfonii hiperfunkcjonalnej.",
+    "category": "Patologia"
+  },
+  {
+    "id": 133,
+    "question": "Jakie są składowe emisji głosu?",
+    "answer": "Oddech, fonacja, rezonans, artykulacja.",
+    "category": "Fizjologia"
+  },
+  {
+    "id": 134,
+    "question": "Co oznacza termin emisja głosu?",
+    "answer": "Funkcjonuje w dwóch znaczeniach: 1. Wydobywanie głosu na zewnątrz, 2. Nauka kształtowania głosu.",
+    "category": "Fizjologia"
+  },
+  {
+    "id": 135,
+    "question": "Jakie są podstawowe rodzaje rezonatorów?",
+    "answer": "1. Rezonatory dolne (poniżej fałdów głosowych, o niezmiennych kształtach), 2. Rezonatory górne (powyżej fałdów głosowych, o zmiennych kształtach).",
+    "category": "Anatomia"
+  },
+  {
+    "id": 136,
+    "question": "Jakie są możliwe objawy zaburzeń głosu?",
+    "answer": "Uczucie napięcia w krtani, bolesność podczas mówienia, wysychanie śluzówki, afonia, trudności z wydobyciem głosu, męczliwość, osłabienie, zanikanie, drżenie, chrypka.",
+    "category": "Patologia"
+  },
+  {
+    "id": 137,
+    "question": "Co to jest mowa przełykowa?",
+    "answer": "Głos i mowa zastępcza wytwarzana po laryngektomii, gdzie górny odcinek przełyku przejmuje rolę generatora drgań. Charakteryzuje się niską częstotliwością tonu podstawowego i ubogą intonacją.",
+    "category": "Terapia"
+  },
+  {
+    "id": 138,
+    "question": "Jakie są podstawowe cele impostacji głosu?",
+    "answer": "Opanowanie techniki oddychania, wykształcenie nośnego i dynamicznego głosu, rozszerzenie skali głosowej, zwiększenie siły głosu, wykształcenie barwy, opanowanie świadomej kontroli brzmienia.",
+    "category": "Terapia"
+  },
+  {
+    "id": 139,
+    "question": "Jakie są główne typy ćwiczeń emisji głosu?",
+    "answer": "Ćwiczenia słuchowe, relaksacyjne, oddechowe, fonacyjne, artykulacyjne oraz ćwiczenia koordynacji oddechowo-fonacyjno-artykulacyjnej.",
+    "category": "Terapia"
+  },
+  {
+    "id": 140,
+    "question": "Co ocenia skala GRBAS?",
+    "answer": "G - stopień chrypki, R - szorstkość, B - stopień emisji chuchającej, A - słabość głosu, S - stopień napięcia głosu. Każdy parametr oceniany w skali 0-3.",
+    "category": "Diagnostyka"
+  },
+  {
+    "id": 141,
+    "question": "Jakie są czynniki niekorzystne dla organu głosotwórczego?",
+    "answer": "Zbyt ostre i zimne pokarmy, wysokoprocentowy alkohol, palenie tytoniu, mówienie podniesionym głosem, nadmierny wysiłek narządu mowy.",
+    "category": "Patologia"
+  },
+  {
+    "id": 142,
+    "question": "Co to jest ton krtaniowy?",
+    "answer": "Efekt procesu fonacji, inaczej dźwięk podstawowy lub częstotliwość podstawowa (Fo). Jest słaby i pozbawiony siły, zyskuje je dopiero dzięki rezonatorom.",
+    "category": "Fizjologia"
+  },
+  {
+    "id": 143,
+    "question": "Co to jest nosowanie otwarte?",
+    "answer": "Nieprawidłowe wzmocnienie rezonansu nosowego, gdy nie jest możliwe oddzielenie jamy ustnej od nosowej i głoski ustne mają rezonans nosowy.",
+    "category": "Patologia"
+  },
+  {
+    "id": 144,
+    "question": "Jakie są warunki prawidłowej fonacji?",
+    "answer": "Prawidłowa postawa ciała, prawidłowa budowa aparatu fonacyjnego, korelacja aparatu fonacyjnego z artykulacyjnym i oddechowym, odpowiednie ciśnienie podgłośniowe, kontrola słuchowa.",
+    "category": "Fizjologia"
+  },
+  {
+    "id": 145,
+    "question": "Co to jest nosowanie zamknięte?",
+    "answer": "Zaburzenia rezonansu głosek nosowych i częściowo ustnych na skutek przeszkody w jamie nosowej lub nosogardła utrudniającej przepływ strumienia powietrza.",
+    "category": "Patologia"
+  },
+  {
+    "id": 146,
+    "question": "Jakie są rodzaje jamy rezonacyjnych o stałej objętości?",
+    "answer": "Jama nosowa, zatoki przynosowe, część nosowa gardła.",
+    "category": "Anatomia"
+  },
+  {
+    "id": 147,
+    "question": "Jakie są jamy rezonacyjne o zmiennych kształtach?",
+    "answer": "Kieszonki krtaniowe, przedsionek krtani, gardło, jama ustna.",
+    "category": "Anatomia"
+  },
+  {
+    "id": 148,
+    "question": "W jakim zakresie częstotliwości mieści się średnie położenie głosu w mowie?",
+    "answer": "U kobiet około 265 Hz, u mężczyzn około 128 Hz.",
+    "category": "Fizjologia"
+  },
+  {
+    "id": 149,
+    "question": "Co to jest dysfonia audiogenna?",
+    "answer": "Zaburzenia głosu spowodowane niedosłuchem, charakteryzujące się utratą samokontroli nad wysokością, natężeniem i barwą wytwarzanego głosu.",
+    "category": "Patologia"
+  },
+  {
+    "id": 150,
+    "question": "Jakie są optymalne warunki środowiskowe dla narządu głosu?",
+    "answer": "Temperatura 18-21°C, wilgotność powietrza 60-70%, odpowiednia czystość powietrza.",
+    "category": "Fizjologia"
+  },
+  {
+    "id": 151,
+    "question": "Co to jest intonacja w procesie emisji głosu?",
+    "answer": "Umiejętność posługiwania się skalą wysokości głosu w czasie mówienia. Jest elementem ekspresywnym wypowiedzi i może być oznajmująca, pytająca lub wykrzyknikowa.",
+    "category": "Mowa"
+  },
+  {
+    "id": 152,
+    "question": "Co to jest modulacja głosu?",
+    "answer": "Posługiwanie się skalą natężenia i zabarwień uczuciowych głosu w toku wypowiedzi, dostosowane do treści i zabarwienia uczuciowego wypowiadanych słów.",
+    "category": "Mowa"
+  },
+  {
+    "id": 153,
+    "question": "Jaki jest średni czas fonacji prawidłowo emitowanego dźwięku?",
+    "answer": "Od 20 do 25 sekund podczas pełnego wydechu na samogłosce 'a'.",
+    "category": "Fizjologia"
+  },
+  {
+    "id": 154,
+    "question": "Jakie są możliwe przyczyny dysfonii czynnościowej?",
+    "answer": "Nieprawidłowe nawyki emisyjne, nadmierne obciążenie głosu, specyficzne uwarunkowania anatomiczne, stan błony śluzowej, funkcjonowanie układu nerwowego, czynniki psychiczne i emocjonalne.",
+    "category": "Patologia"
+  },
+  {
+    "id": 155,
+    "question": "Co to jest barwa głosu?",
+    "answer": "Cecha głosu zależna od częstotliwości rezonansowych (formantów) tworzących się w przestrzeniach między narządami artykulacyjnymi. Umożliwia odróżnianie głosów różnych osób.",
+    "category": "Fizjologia"
+  },
+  {
+    "id": 156,
+    "question": "Jakie są główne elementy oceny logopedycznej głosu?",
+    "answer": "Analiza badań specjalistycznych, wywiad i obserwacja, ocena postawy ciała, oddychania, koordynacji oddechowo-fonacyjno-artykulacyjnej, motoryki artykulacyjnej, charakterystyki głosu.",
+    "category": "Diagnostyka"
+  },
+  {
+    "id": 157,
+    "question": "Jak przebiega mechanizm tworzenia głosu przełykowego?",
+    "answer": "Górny odcinek przełyku przejmuje rolę generatora drgań, powietrze usuwane ruchem antyperystaltycznym wprowadza w drgania pseudogłośnię tworząc dźwięk podstawowy.",
+    "category": "Terapia"
+  },
+  {
+    "id": 158,
+    "question": "Jaka jest rola słuchu w rozwoju głosu?",
+    "answer": "Umożliwia uporządkowanie znaczenia sygnałów akustycznych, rozwój biologicznego sprzężenia zwrotnego, samoregulację wysokości, natężenia i barwy głosu.",
+    "category": "Fizjologia"
+  },
+  {
+    "id": 159,
+    "question": "Jakie są główne metody badania krtani?",
+    "answer": "Wywiad, oglądanie, palpacja, ocena audytywna, laryngoskopia, fibroendoskopia, stroboskopia, glottografia, obrazowanie (TK, MR).",
+    "category": "Diagnostyka"
+  },
+  {
+    "id": 160,
+    "question": "Co to jest próba Czermaka w ocenie rezonansu nosowego?",
+    "answer": "Ustawienie nieogrzanego lusterka przed nosem podczas wymawiania samogłoski [a]. Zaparowanie lusterka świadczy o nosowaniu otwartym.",
+    "category": "Diagnostyka"
   }
 ]
