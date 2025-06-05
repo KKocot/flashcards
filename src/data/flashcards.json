@@ -478,5 +478,245 @@
     "question": "Jaką rolę pełni wzgórze w procesie mowy?",
     "answer": "Pełni funkcję podkorowego ośrodka dla wzroku i słuchu, tworzy układ centrencefaliczny koordynujący czynność kory mózgowej z pniem mózgu.",
     "category": "Neuroanatomia"
+  },
+  {
+    "id": 81,
+    "question": "Co to jest ośrodkowy generator wzorca oddechowego (CPG)?",
+    "answer": "Sieć neuronów w pniu mózgu połączonych drogami pobudzającymi i hamującymi, zamieniająca toniczny napęd oddechowy na cykliczną aktywność wdechową i wydechową.",
+    "category": "Fizjologia"
+  },
+  {
+    "id": 82,
+    "question": "Jakie są podstawowe funkcje układu oddechowego?",
+    "answer": "Utrzymanie stałości środowiska wewnętrznego, utrzymanie stałego pH krwi, udział w syntezie konwertazy, wytwarzanie substancji biologicznie czynnych, ogrzewanie i nawilżanie powietrza, współtworzenie głosu.",
+    "category": "Fizjologia"
+  },
+  {
+    "id": 83,
+    "question": "Na czym polega oddychanie statyczne i dynamiczne?",
+    "answer": "Statyczne to oddychanie spoczynkowe gdy nie mówimy (mechanizm automatyczny). Dynamiczne występuje podczas mówienia i śpiewania, charakteryzuje się świadomą kontrolą głębokości i rytmu oddechu.",
+    "category": "Fizjologia"
+  },
+  {
+    "id": 84,
+    "question": "Jakie są warunki prawidłowego oddychania?",
+    "answer": "Prawidłowa regulacja neuronalna, prawidłowa budowa narządów oddechowych, prawidłowa postawa ciała, prawidłowe napięcie mięśniowe, prawidłowy tor oddechowy, prawidłowy stan emocjonalny.",
+    "category": "Fizjologia"
+  },
+  {
+    "id": 85,
+    "question": "Jakie są główne funkcje jamy nosowej w procesie oddychania?",
+    "answer": "Oczyszczanie powietrza, ogrzewanie powietrza, nawilżanie powietrza oraz funkcja węchowa.",
+    "category": "Anatomia"
+  },
+  {
+    "id": 86,
+    "question": "Jakie są konsekwencje przerostu migdałka gardłowego?",
+    "answer": "Zmiana toru oddechowego, oddychanie przez usta, zaburzenia mowy, charakterystyczny wyraz twarzy, wady zgryzu, chrapanie, bezdechy senne, nawracające infekcje.",
+    "category": "Patologia"
+  },
+  {
+    "id": 87,
+    "question": "Co to jest surfaktant i jaką pełni rolę?",
+    "answer": "Kompleks fosfolipidów i białek wyścielający pęcherzyki płucne. Zmniejsza napięcie powierzchniowe ścian pęcherzyków, zapobiega ich sklejaniu i zapadaniu się, stabilizuje ich średnicę.",
+    "category": "Fizjologia"
+  },
+  {
+    "id": 88,
+    "question": "Jakie są podstawowe elementy oceny układu oddechowego w badaniu logopedycznym?",
+    "answer": "Ocena toru oddechowego, fazy wdechowej i wydechowej, regularności oddechu, postawy ciała, komfortu pacjenta podczas oddychania oraz synchronizacji oddechowo-fonacyjno-artykulacyjnej.",
+    "category": "Diagnostyka"
+  },
+  {
+    "id": 89,
+    "question": "Na czym polega technika appoggio?",
+    "answer": "Technika świadomego kontrolowania ciśnienia i przepływu oddechu podczas generowania głosu poprzez spowolnienie fazy wydechowej za pomocą kontrolowanego napięcia mięśni oddechowych.",
+    "category": "Terapia"
+  },
+  {
+    "id": 90,
+    "question": "Jakie są główne grupy mięśni oddechowych?",
+    "answer": "1. Mięśnie wdechowe (główne: przepona, międzyżebrowe zewnętrzne; pomocnicze), 2. Mięśnie wydechowe (główne: międzyżebrowe wewnętrzne, mięśnie tłoczni brzusznej; pomocnicze).",
+    "category": "Anatomia"
+  },
+  {
+    "id": 91,
+    "question": "Czym charakteryzuje się fizjologiczny oddech przez nos?",
+    "answer": "Zwiększa pobór tlenu o 10-20%, utrzymuje większą pojemność płuc, umożliwia produkcję tlenku azotu przez zatoki przynosowe, chroni przed patogenami, wspomaga prawidłowy rozwój szczęk.",
+    "category": "Fizjologia"
+  },
+  {
+    "id": 92,
+    "question": "Jakie są główne elementy Pierścienia gardłowego Waldeyera?",
+    "answer": "Migdałek gardłowy, migdałki trąbkowe (parzyste), migdałek językowy, migdałki podniebienne (parzyste) - tworzą układ chłonny gardła.",
+    "category": "Anatomia"
+  },
+  {
+    "id": 93,
+    "question": "Co to jest faza gardłowa połykania i jakie są jej główne elementy?",
+    "answer": "Faza odpowiedzialna za ochronę dróg oddechowych przed aspiracją. Główne elementy: zamknięcie nosogardzieli i krtani, skurcz mięśni zwieraczy gardła, rozluźnienie górnego zwieracza przełyku.",
+    "category": "Fizjologia"
+  },
+  {
+    "id": 94,
+    "question": "Jakie są główne funkcje krtani?",
+    "answer": "1. Głosowa (tworzenie dźwięku poprzez drgania fałdów głosowych), 2. Oddechowa (przepływ powietrza), 3. Obronna (ochrona przed aspiracją poprzez zamykanie wejścia do krtani).",
+    "category": "Anatomia"
+  },
+  {
+    "id": 95,
+    "question": "Co to jest pojemność życiowa płuc i jakie są jej składowe?",
+    "answer": "Objętość powietrza od maksymalnego wydechu do maksymalnego wdechu (ok. 3,5l). Składowe: objętość oddechowa, objętość zapasowa wdechowa, objętość zapasowa wydechowa.",
+    "category": "Fizjologia"
+  },
+  {
+    "id": 96,
+    "question": "Jakie są podstawowe typy hipoksji?",
+    "answer": "1. Anemiczna (niedobór hemoglobiny), 2. Hypoksyczna (obniżona prężność tlenu), 3. Krążeniowa (zaburzenia przepływu), 4. Histotoksyczna (zatrucia), 5. Histotermiczna (przegrzanie).",
+    "category": "Patologia"
+  },
+  {
+    "id": 97,
+    "question": "Jakie są receptory oddechowe i ich funkcje?",
+    "answer": "SAR (wolno adaptujące się mechanoreceptory płuc), RAR (szybko adaptujące się mechanoreceptory), Receptory C (reagują na bodźce chemiczne), Receptory J (wrażliwe na obrzęk płuc).",
+    "category": "Fizjologia"
+  },
+  {
+    "id": 98,
+    "question": "Na czym polega metoda Butejki?",
+    "answer": "Metoda redukcji skutków hiperwentylacji poprzez naukę kontroli oddechu i oddychania zmniejszoną objętością oddechową. Uczy oddychania przez nos, wstrzymywania oddechu i relaksacji.",
+    "category": "Terapia"
+  },
+  {
+    "id": 99,
+    "question": "Jakie są podstawowe zasady prowadzenia ćwiczeń oddechowych?",
+    "answer": "Indywidualizacja, przewietrzenie pomieszczenia, wykonywanie nie bezpośrednio po jedzeniu, robienie przerw, zachowanie powietrza zapasowego, różne pozycje ciała, rozluźnienie mięśni.",
+    "category": "Terapia"
+  },
+  {
+    "id": 100,
+    "question": "Jakie są główne cele ćwiczeń oddechowych w terapii logopedycznej?",
+    "answer": "Wzmacnianie mięśni oddechowych, zwiększenie pojemności płuc, wyrobienie oddechu przeponowego, wydłużenie fazy wydechowej, synchronizacja pauz oddechowych z treścią wypowiedzi.",
+    "category": "Terapia"
+  },
+  {
+    "id": 101,
+    "question": "Co to jest tracheostomia i jakie są jej główne wskazania?",
+    "answer": "Zabieg otwarcia przedniej ściany tchawicy i wprowadzenia rurki. Wskazania: przedłużająca się intubacja, nowotwory krtani, zaburzenia oddechowe w udarach, porażenie fałdów głosowych.",
+    "category": "Medycyna"
+  },
+  {
+    "id": 102,
+    "question": "Jakie są główne odruchy obronne układu oddechowego?",
+    "answer": "1. Kaszel (usuwanie czynników drażniących z dróg oddechowych), 2. Kichanie (oczyszczanie jamy nosowej), 3. Czkawka (skurcz przepony na skutek podrażnienia nerwu przeponowego).",
+    "category": "Fizjologia"
+  },
+  {
+    "id": 103,
+    "question": "Jak wygląda regulacja nerwowa oddychania?",
+    "answer": "Poprzez CPG (ośrodkowy generator wzorca), neurony oddechowe (wdechowe i wydechowe), receptory (SAR, RAR, C, J) oraz obszary chemowrażliwe mózgu.",
+    "category": "Fizjologia"
+  },
+  {
+    "id": 104,
+    "question": "Jakie są konsekwencje nieprawidłowego oddychania dla mowy?",
+    "answer": "Utrudniona pionizacja języka, wady wymowy, zaburzenia gospodarowania powietrzem podczas mówienia, obniżone natężenie głosu, mówienie na resztkach powietrza.",
+    "category": "Patologia"
+  },
+  {
+    "id": 105,
+    "question": "Co to jest twarz adenoidalna?",
+    "answer": "Zespół cech twarzy związany z przerostem migdałka gardłowego: podłużna twarz, cofnięta żuchwa, dolne położenie języka, 'gotyckie' podniebienie, tyłozgryz lub zgryz krzyżowy.",
+    "category": "Patologia"
+  },
+  {
+    "id": 106,
+    "question": "Jakie są główne różnice między oddychaniem statycznym a dynamicznym?",
+    "answer": "Statyczne: oddech przez nos, równe fazy, małe zużycie powietrza, automatyczne. Dynamiczne: oddech przez usta/nos, krótki wdech/długi wydech, duże zużycie powietrza, kontrolowane.",
+    "category": "Fizjologia"
+  },
+  {
+    "id": 107,
+    "question": "Co to jest pauza kontrolna w metodzie Butejki?",
+    "answer": "Test oddechowy mierzący czas swobodnego wstrzymania oddechu po wydechu. Długość pauzy określa objętość oddechową i nasilenie objawów nadmiernego oddychania.",
+    "category": "Terapia"
+  },
+  {
+    "id": 108,
+    "question": "Jakie mięśnie tworzą strukturę gardła?",
+    "answer": "1. Mięśnie zwieracze (górny, środkowy, dolny), 2. Mięśnie dźwigacze (rylcowo-gardłowy, podniebienno-gardłowy, trąbkowo-gardłowy).",
+    "category": "Anatomia"
+  },
+  {
+    "id": 109,
+    "question": "Jakie są różnice w oddychaniu między mową a śpiewem?",
+    "answer": "Stosunek wdechu do wydechu: w spokojnym oddychaniu 1:1.2, w mowie 1:3, w śpiewie 1:50. Śpiew wymaga większego ciśnienia podgłośniowego i kontroli oddechu.",
+    "category": "Fizjologia"
+  },
+  {
+    "id": 110,
+    "question": "Co to jest POChP i jakie są jego główne objawy oddechowe?",
+    "answer": "Przewlekła obturacyjna choroba płuc charakteryzująca się trwałym ograniczeniem przepływu powietrza przez drogi oddechowe. Objawia się dusznością, kaszlem i odkrztuszaniem.",
+    "category": "Patologia"
+  },
+  {
+    "id": 111,
+    "question": "Jakie są główne mięśnie wdechowe i ich funkcje?",
+    "answer": "Główne: przepona i mięśnie międzyżebrowe zewnętrzne. Pomocnicze: pochyłe szyi, mostkowo-obojczykowo-sutkowe, zębate, piersiowe mniejsze. Odpowiadają za rozszerzenie klatki piersiowej.",
+    "category": "Anatomia"
+  },
+  {
+    "id": 112,
+    "question": "Jakie są główne mięśnie wydechowe i ich funkcje?",
+    "answer": "Główne: międzyżebrowe wewnętrzne i mięśnie tłoczni brzusznej. Pomocnicze: prosty brzucha, skośne brzucha, poprzeczny klatki piersiowej. Odpowiadają za zmniejszenie objętości klatki piersiowej.",
+    "category": "Anatomia"
+  },
+  {
+    "id": 113,
+    "question": "Jak zmienia się liczba oddechów na minutę w zależności od wieku?",
+    "answer": "Noworodek: 40/min, niemowlę: 30/min, małe dzieci: 25/min, nastolatki: 16-20/min, dorośli: 12-15/min.",
+    "category": "Fizjologia"
+  },
+  {
+    "id": 114,
+    "question": "Jakie są główne przyczyny dysfunkcji oddychania u dzieci?",
+    "answer": "Wiotkość mięśni, częste infekcje dróg oddechowych, niedrożność nosa, alergie, długotrwałe karmienie butelką, parafunkcje (ssanie smoczka, palca).",
+    "category": "Patologia"
+  },
+  {
+    "id": 115,
+    "question": "Jakie są podstawowe tory oddychania?",
+    "answer": "1. Żebrowy (piersiowy), 2. Brzuszny (przeponowy), 3. Mieszany (żebrowo-brzuszny). W żebrowym wyróżnia się dodatkowo górny i dolny.",
+    "category": "Fizjologia"
+  },
+  {
+    "id": 116,
+    "question": "Co to jest chemiczna regulacja oddychania?",
+    "answer": "Proces kontroli oddychania poprzez obszary chemowrażliwe mózgu i chemoreceptory obwodowe reagujące na zmiany stężenia CO2, O2 i pH krwi.",
+    "category": "Fizjologia"
+  },
+  {
+    "id": 117,
+    "question": "Jakie elementy składają się na układ oddechowy?",
+    "answer": "Górne drogi oddechowe (jama nosowa, jama ustna, gardło) oraz dolne drogi oddechowe (krtań, tchawica, oskrzela, płuca).",
+    "category": "Anatomia"
+  },
+  {
+    "id": 118,
+    "question": "Jakie są najczęstsze zaburzenia oddychania?",
+    "answer": "Oddech paradoksalny, przyspieszony (>40), zwolniony (<8), jednostronne ruchy klatki piersiowej, zmiana toru oddechowego, oddech pogłębiony lub spłycony.",
+    "category": "Patologia"
+  },
+  {
+    "id": 119,
+    "question": "Co to jest oddech Cheyne'a-Stokesa?",
+    "answer": "Patologiczny wzorzec oddychania charakteryzujący się naprzemiennymi okresami przyspieszenia i spowolnienia oddechów, z okresami bezdechu.",
+    "category": "Patologia"
+  },
+  {
+    "id": 120,
+    "question": "Jaką rolę pełni przepona w procesie oddychania i fonacji?",
+    "answer": "Główny mięsień wdechowy umożliwiający oddychanie torem brzusznym. W fonacji reguluje siłę wydechowego prądu powietrza. Przy skurczu spłaszcza się i obniża, zwiększając pojemność klatki piersiowej.",
+    "category": "Anatomia"
   }
 ]
