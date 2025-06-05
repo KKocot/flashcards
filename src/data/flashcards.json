@@ -238,5 +238,245 @@
     "question": "Jakie są kryteria różnicowania dyzartrii i anartrii?",
     "answer": "Stopień nasilenia zaburzeń, możliwość realizacji mowy, rokowania terapeutyczne, współwystępowanie innych zaburzeń neurologicznych.",
     "category": "Zaburzenia mowy"
+  },
+  {
+    "id": 41,
+    "question": "Czym jest fizjologia jako nauka?",
+    "answer": "Dziedzina nauki badająca funkcjonowanie żywych organizmów, ich narządów, tkanek oraz komórek. Ustala prawa rządzące organizmami, korzystając z wiedzy fizyki, chemii, biologii i innych nauk.",
+    "category": "Fizjologia"
+  },
+  {
+    "id": 42,
+    "question": "Jakie są trzy główne części w czynnościowym podziale układu nerwowego?",
+    "answer": "1. Aferentna (informacyjna) - doprowadzająca sygnały, 2. Nadrzędna (ośrodkowy układ nerwowy) - przetwarzająca informacje, 3. Eferentna (ruchowa) - przekazująca sygnały do narządów wykonawczych.",
+    "category": "Neurologia"
+  },
+  {
+    "id": 43,
+    "question": "Co to jest koncepcja mózgu triadowego według Łurii?",
+    "answer": "Wyróżnia trzy bloki funkcjonalne: 1. Blok energetyczny (reguluje aktywność kory), 2. Blok informacyjny (odbiera i przetwarza informacje), 3. Blok sterowniczy (programuje i kontroluje działania).",
+    "category": "Neurologia"
+  },
+  {
+    "id": 44,
+    "question": "Jakie są trzy rodzaje pól korowych w mózgu?",
+    "answer": "1. Pola pierwszorzędowe (odbiór wrażeń zmysłowych), 2. Pola drugorzędowe (analiza i synteza sygnałów), 3. Pola trzeciorzędowe (integracja informacji z różnych obszarów).",
+    "category": "Neuroanatomia"
+  },
+  {
+    "id": 45,
+    "question": "Co to jest układ limbiczny i jaką pełni rolę w mowie?",
+    "answer": "Układ struktur korowych i podkorowych mózgu regulujący zachowania emocjonalne. Odpowiada za mowę limbiczną (emocjonalną) i jest istotny w procesie zapamiętywania oraz motywacji.",
+    "category": "Neuroanatomia"
+  },
+  {
+    "id": 46,
+    "question": "Jak rozumiana jest mowa w ujęciu logopedycznym według Grabiasa?",
+    "answer": "Zespół czynności wykonywanych przy udziale języka, służących poznawaniu świata i przekazywaniu jego interpretacji innym uczestnikom życia społecznego.",
+    "category": "Logopedia"
+  },
+  {
+    "id": 47,
+    "question": "Jakie są główne struktury korowe tworzące obszar mowy w półkuli dominującej?",
+    "answer": "1. Tylno-dolna część płata czołowego, 2. Tylna część górnego i środkowego zakrętu skroniowego, 3. Okolica styku skroniowo-ciemieniowo-potylicznego, 4. Przyśrodkowa część lewego płata czołowego.",
+    "category": "Neuroanatomia"
+  },
+  {
+    "id": 48,
+    "question": "Czym różni się kompetencja od sprawności w ujęciu Grabiasa?",
+    "answer": "Kompetencje to wiedza społeczna tkwiąca w umysłach ludzkich, a sprawności to indywidualne realizacje kompetencji.",
+    "category": "Logopedia"
+  },
+  {
+    "id": 49,
+    "question": "Jakie są podstawowe rodzaje kompetencji według Grabiasa?",
+    "answer": "1. Kompetencja językowa (gramatyczno-leksykalna), 2. Kompetencja komunikacyjna (zasady użycia języka w grupie), 3. Kompetencja kulturowa (wiedza o rzeczywistości).",
+    "category": "Logopedia"
+  },
+  {
+    "id": 50,
+    "question": "Co to jest mowa wewnętrzna?",
+    "answer": "Zachowania językowe dokonujące się w umyśle (cerebracja), których wynikiem jest pozbawiony postaci dźwiękowej tekst pomyślany.",
+    "category": "Mowa"
+  },
+  {
+    "id": 51,
+    "question": "Jakie są funkcje mowy według Milewskiego?",
+    "answer": "1. Ekspresywna (wyraża uczucia i emocje), 2. Impresywna (wpływa na postawy odbiorcy), 3. Semantyczna (zwraca uwagę na zjawiska otaczającego świata).",
+    "category": "Mowa"
+  },
+  {
+    "id": 52,
+    "question": "Co to jest langage według de Saussure'a?",
+    "answer": "Całość zachowań językowych określonej społeczności mówiącej, na którą składa się język (langue) i mówienie (parole).",
+    "category": "Lingwistyka"
+  },
+  {
+    "id": 53,
+    "question": "Jakie są główne założenia strukturalizmu w językoznawstwie?",
+    "answer": "Język jako zamknięty system znaków i relacji, porządkowanie znaków na osiach paradygmatycznej i syntagmatycznej, oddzielenie fonetyki od fonologii.",
+    "category": "Lingwistyka"
+  },
+  {
+    "id": 54,
+    "question": "Na czym polega generatywizm Chomsky'ego?",
+    "answer": "Teoria zakładająca istnienie wrodzonego mechanizmu językowego pozwalającego budować zdania gramatycznie poprawne. Wprowadza pojęcia kompetencji i performancji językowej.",
+    "category": "Lingwistyka"
+  },
+  {
+    "id": 55,
+    "question": "Jakie są główne funkcje móżdżku w procesie mowy?",
+    "answer": "Koordynacja ruchowa, regulacja napięcia mięśni, płynność ruchu, funkcje poznawcze (pamięć operacyjna, fluencja słowna).",
+    "category": "Neuroanatomia"
+  },
+  {
+    "id": 56,
+    "question": "Jakie elementy składają się na część aferentną procesu komunikatywnego?",
+    "answer": "Układ słuchowy, układ wzrokowy oraz drogi czucia protopatycznego (powierzchownego) i epikrytycznego (głębokiego).",
+    "category": "Anatomia"
+  },
+  {
+    "id": 57,
+    "question": "Co to jest ośrodkowe przetwarzanie słuchowe?",
+    "answer": "Proces obejmujący: lokalizację i lateralizację dźwięku, dyskryminację słuchową, rozpoznawanie wzorców, czasowe aspekty słyszenia, zdolność rozpoznawania sygnałów konkurencyjnych i zniekształconych.",
+    "category": "Fizjologia"
+  },
+  {
+    "id": 58,
+    "question": "Jakie są funkcje pnia mózgu w procesie mowy?",
+    "answer": "Odpowiada za utrzymywanie podstawowych funkcji życiowych, zawiera ośrodki odruchowe oraz jądra nerwów czaszkowych istotnych dla mowy (V, VII, IX, X, XII).",
+    "category": "Neuroanatomia"
+  },
+  {
+    "id": 59,
+    "question": "Czym charakteryzują się pola pierwszorzędowe kory mózgowej?",
+    "answer": "Odbierają bodźce z otoczenia, mają silną specyfikę modalną, są dojrzałe w momencie urodzenia. Ich uszkodzenia prowadzą do zaburzeń wrażeń zmysłowych.",
+    "category": "Neuroanatomia"
+  },
+  {
+    "id": 60,
+    "question": "Jakie są funkcje pól drugorzędowych kory mózgowej?",
+    "answer": "Analiza i synteza sygnałów z pól pierwszorzędowych, integracja bodźców w ramach jednej modalności, rozpoznawanie całościowe bodźców. Dojrzewają kilka miesięcy po urodzeniu.",
+    "category": "Neuroanatomia"
+  },
+  {
+    "id": 61,
+    "question": "Jaką rolę pełnią pola trzeciorzędowe kory mózgowej?",
+    "answer": "Integrują informacje z różnych modalności, regulują złożone funkcje psychiczne (mowa, pamięć, koordynacja), kontrolują funkcje poznawcze i emocjonalne. Dojrzewają około 4-5 roku życia.",
+    "category": "Neuroanatomia"
+  },
+  {
+    "id": 62,
+    "question": "Jak różnią się funkcje lewej i prawej półkuli mózgu w zakresie mowy?",
+    "answer": "Lewa odpowiada za komunikację werbalną, reguły gramatyczne, czytanie i pisanie. Prawa za prozodię, komunikację pozawerbalną i rozpoznawanie emocji.",
+    "category": "Neuroanatomia"
+  },
+  {
+    "id": 63,
+    "question": "Co to jest twór siatkowaty i jaką pełni funkcję?",
+    "answer": "Struktura w pniu mózgu odpowiedzialna za stan czuwania, sterowanie podstawowymi czynnościami życiowymi oraz utrzymywanie mózgu w stanie gotowości funkcjonalnej.",
+    "category": "Neuroanatomia"
+  },
+  {
+    "id": 64,
+    "question": "Jakie struktury mózgu odpowiadają za prozodię mowy?",
+    "answer": "Kora zakrętu obręczy (modeluje brzmienie głosu), śródmózgowie (reakcje emocjonalne), rdzeń przedłużony (kontrola intonacji), układ limbiczny (komponent emocjonalny).",
+    "category": "Neuroanatomia"
+  },
+  {
+    "id": 65,
+    "question": "Co to jest obszar Broki i jaką pełni funkcję?",
+    "answer": "Przedni obszar mowy zlokalizowany w tylnej części płata czołowego, odpowiada za zdolność nadawania mowy, łączenie głosek w wyrazy i formułowanie płynnych wypowiedzi.",
+    "category": "Neuroanatomia"
+  },
+  {
+    "id": 66,
+    "question": "Co to jest obszar Wernickego i jaką pełni funkcję?",
+    "answer": "Tylny obszar mowy zlokalizowany w płacie skroniowym, odpowiada za rozumienie mowy oraz rozpoznawanie głosek, wyrazów i zdań.",
+    "category": "Neuroanatomia"
+  },
+  {
+    "id": 67,
+    "question": "Jakie są trzy aspekty mowy według de Saussure'a?",
+    "answer": "1. Langage (całość zachowań językowych), 2. Langue (system językowy), 3. Parole (indywidualne akty mowy).",
+    "category": "Lingwistyka"
+  },
+  {
+    "id": 68,
+    "question": "Co to jest dynamiczny układ czynnościowy dla mowy według Łurii?",
+    "answer": "Złożony układ współdziałających systemów mózgowych, który może się zmieniać na różnych etapach nabywania umiejętności i podlegać przebudowie w przypadku uszkodzeń.",
+    "category": "Neurologia"
+  },
+  {
+    "id": 69,
+    "question": "Jakie są główne elementy części eferentnej procesu komunikatywnego?",
+    "answer": "Układ ruchowy piramidowy, układ pozapiramidowy, układ móżdżkowy oraz obwodowy narząd mowy.",
+    "category": "Anatomia"
+  },
+  {
+    "id": 70,
+    "question": "Co to jest homeostaza i jaki ma związek z mową?",
+    "answer": "Zdolność organizmu do zachowania stałego środowiska wewnętrznego. Wpływa na funkcjonowanie ośrodkowego układu nerwowego, który zawiaduje regulacją czynności rozumienia i nadawania mowy.",
+    "category": "Fizjologia"
+  },
+  {
+    "id": 71,
+    "question": "Jakie są podstawowe komponenty procesu mówienia?",
+    "answer": "1. Motywacja, 2. Myślowa konstrukcja wypowiedzi, 3. Planowanie ruchów narządów mowy, 4. Realizacja dźwiękowa wypowiedzi.",
+    "category": "Mowa"
+  },
+  {
+    "id": 72,
+    "question": "Co to jest cerebracja?",
+    "answer": "Pierwszy etap myślenia, polegający na sformułowaniu wypowiedzi w myśli, poprzedzający jej realizację ruchową.",
+    "category": "Mowa"
+  },
+  {
+    "id": 73,
+    "question": "Jakie są główne struktury podkorowe zaangażowane w regulację mowy?",
+    "answer": "Torebka wewnętrzna, skorupa, przednio-górna oraz tylna część istoty białej, prążkowie.",
+    "category": "Neuroanatomia"
+  },
+  {
+    "id": 74,
+    "question": "Jak przebiega lokalizacja mowy w mózgu w zależności od ręczności?",
+    "answer": "96% praworęcznych i 70% leworęcznych ma ośrodki mowy w lewej półkuli, 15% leworęcznych w prawej półkuli, a 15% leworęcznych obustronnie.",
+    "category": "Neuroanatomia"
+  },
+  {
+    "id": 75,
+    "question": "Jakie są podstawowe elementy układu limbicznego?",
+    "answer": "Płat limbiczny z hipokampem, ciało migdałowate, jądro przegrody.",
+    "category": "Neuroanatomia"
+  },
+  {
+    "id": 76,
+    "question": "Co należy do układu pozapiramidowego w kontekście mowy?",
+    "answer": "Ciało prążkowane, gałka blada, jądro podwzgórzowe, jądro czerwone, istota czarna Soemmeringa.",
+    "category": "Neuroanatomia"
+  },
+  {
+    "id": 77,
+    "question": "Jak definiuje mowę Bożydar L. Kaczmarek?",
+    "answer": "Akt w procesie słownego porozumiewania się, w którym mówiący przekazuje słuchaczowi określone treści, a rozmówca je odbiera.",
+    "category": "Logopedia"
+  },
+  {
+    "id": 78,
+    "question": "Co to jest socjolingwistyczne ujęcie mowy?",
+    "answer": "Podejście zakładające istnienie reguł odpowiedniości, które wyznaczają sposoby budowania wypowiedzi odpowiednio do sytuacji społecznych.",
+    "category": "Lingwistyka"
+  },
+  {
+    "id": 79,
+    "question": "Jakie są podstawowe założenia teoretyczne dla logopedycznej klasyfikacji zaburzeń mowy według Grabiasa?",
+    "answer": "1. Utożsamianie mowy z komunikacją językową, 2. Oglądanie zaburzeń z perspektywy biologicznej, psychicznej i społecznej, 3. Opisywanie zaburzeń na tle pełnego obrazu komunikacji językowej.",
+    "category": "Logopedia"
+  },
+  {
+    "id": 80,
+    "question": "Jaką rolę pełni wzgórze w procesie mowy?",
+    "answer": "Pełni funkcję podkorowego ośrodka dla wzroku i słuchu, tworzy układ centrencefaliczny koordynujący czynność kory mózgowej z pniem mózgu.",
+    "category": "Neuroanatomia"
   }
 ]
