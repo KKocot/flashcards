@@ -7,8 +7,8 @@ const ProgressBar = ({ current, total }: ProgressBarProps) => {
   const progress = (current / total) * 100;
 
   return (
-    <div className="w-full max-w-md mb-6">
-      <div className="flex justify-between text-sm text-gray-600 mb-1">
+    <div className="w-full max-w-md mt-6">
+      <div className="flex justify-between text-sm mb-1">
         <span>
           Card {current} of {total}
         </span>

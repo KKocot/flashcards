@@ -5,16 +5,24 @@ import { motion } from "framer-motion";
 interface FlashcardProps {
   question: string;
   answer: string;
+  category: string;
   isFlipped: boolean;
   onFlip: () => void;
 }
 
-const Flashcard = ({ question, answer, isFlipped, onFlip }: FlashcardProps) => {
+const Flashcard = ({
+  question,
+  answer,
+  isFlipped,
+  onFlip,
+  category,
+}: FlashcardProps) => {
   return (
     <div
       className="w-full max-w-md aspect-[4/3] perspective-1000 cursor-pointer mb-8"
       onClick={onFlip}
     >
+      <h2 className="text-lg font-semibold text-gray-700">{category}</h2>
       <motion.div
         className="relative w-full h-full"
         initial={false}
@@ -24,14 +32,12 @@ const Flashcard = ({ question, answer, isFlipped, onFlip }: FlashcardProps) => {
       >
         {/* Front - Question */}
         <div
-          className={`absolute w-full h-full bg-white rounded-xl shadow-lg p-6 flex flex-col items-center justify-center backface-hidden ${
+          className={`absolute w-full h-fit rounded-xl shadow-lg p-6 flex flex-col items-center justify-center backface-hidden ${
             isFlipped ? "hidden" : ""
           }`}
         >
-          <h2 className="text-xl font-semibold text-gray-700 mb-2">
-            Question:
-          </h2>
-          <p className="text-center text-gray-800 text-lg">{question}</p>
+          <h2 className="text-xl font-semibold mb-2">Question:</h2>
+          <p className="text-center text-lg">{question}</p>
           <div className="mt-4 text-sm text-gray-500">
             Click to reveal answer
           </div>
@@ -39,7 +45,7 @@ const Flashcard = ({ question, answer, isFlipped, onFlip }: FlashcardProps) => {
 
         {/* Back - Answer */}
         <div
-          className={`absolute w-full h-full bg-emerald-50 rounded-xl shadow-lg p-6 flex flex-col items-center justify-center backface-hidden ${
+          className={`absolute w-full h-fit bg-emerald-50 rounded-xl shadow-lg p-6 flex flex-col items-center justify-center backface-hidden ${
             !isFlipped ? "hidden" : ""
           }`}
           style={{ transform: "rotateY(180deg)" }}
