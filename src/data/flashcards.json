@@ -1,62 +1,242 @@
 [
   {
     "id": 1,
-    "question": "Czym zajmuje się fizjologia mowy?",
-    "answer": "Fizjologia mowy zajmuje się badaniem ruchów mięśni biorących udział w artykułowaniu głosek oraz współzależności tych ruchów.",
-    "category": "Definicje"
+    "question": "Jakie są etapy rozwoju neuronalnego mózgu w okresie płodowym?",
+    "answer": "Rozwój cewy nerwowej, intensywna neurogeneza, migracja neuronów w trzech falach w II trymestrze tworząc korę mózgową.",
+    "category": "Neurologia"
   },
   {
     "id": 2,
-    "question": "Co to jest homeostaza?",
-    "answer": "Homeostaza to zdolność organizmu do zachowania stałego środowiska wewnętrznego pomimo zmian w środowisku zewnętrznym.",
-    "category": "Pojęcia ogólne"
+    "question": "Jakie są główne etapy rozwoju mózgu w wieku 0-5 lat?",
+    "answer": "Dojrzałość pnia mózgu/niedojrzałość wyższych struktur, przyrost masy mózgu, mielinizacja włókien nerwowych, rozwój móżdżku, rozwój mowy, lateralizacja mózgu.",
+    "category": "Neurologia"
   },
   {
     "id": 3,
-    "question": "Jakie trzy części wyróżnia się w funkcjonalnym podziale układu nerwowego?",
-    "answer": "Aferentną (informacyjną), nadrzędną (centralną), eferentną (ruchową).",
-    "category": "Układ nerwowy"
+    "question": "Co charakteryzuje rozwój mózgu w wieku 5-10 lat?",
+    "answer": "Wpływ edukacji na rozwój poznawczy oraz rozwój precyzyjnej motoryki.",
+    "category": "Neurologia"
   },
   {
     "id": 4,
-    "question": "Jakie narządy są zaangażowane w tworzenie głosu i mowy?",
-    "answer": "Układ oddechowy (płuca, oskrzela), fonacyjny (krtań), artykulacyjny (jama ustna, nosowa, gardło).",
-    "category": "Anatomia"
+    "question": "Jakie zmiany zachodzą w mózgu w wieku 10-20 lat?",
+    "answer": "Mielinizacja kory (zwłaszcza przedczołowej), rozwój myślenia abstrakcyjnego, rozwój kontroli nad emocjami, rozwój czynności hipokampa.",
+    "category": "Neurologia"
   },
   {
     "id": 5,
-    "question": "Co to jest fonacja?",
-    "answer": "Fonacja to proces tworzenia dźwięku poprzez drganie fałdów głosowych w krtani.",
-    "category": "Procesy fizjologiczne"
+    "question": "Co to jest proces mielinizacji?",
+    "answer": "Proces tworzenia osłonek mielinowych, który rozpoczyna się w drugim trymestrze ciąży i trwa do okresu dorosłości. Jego zadaniem jest przyśpieszenie tempa przesyłania impulsów elektrycznych.",
+    "category": "Neurologia"
   },
   {
     "id": 6,
-    "question": "Czym różni się kompetencja językowa od sprawności językowej?",
-    "answer": "Kompetencja to wiedza społeczna o języku, a sprawność to indywidualna zdolność do jej realizacji w mowie.",
-    "category": "Lingwistyka"
+    "question": "Jakie są biologiczne determinanty rozwoju mowy w mózgowym porażeniu dziecięcym?",
+    "answer": "Zaburzenia posturalne, zaburzenia zmysłów (propriocepcji, dotyku, układu przedsionkowego, słuchu i wzroku), zaburzenia rozwoju intelektualnego.",
+    "category": "Zaburzenia mowy"
   },
   {
     "id": 7,
-    "question": "Jakie są funkcje prymarne układu ustno-twarzowego?",
-    "answer": "Oddychanie, ssanie, połykanie, żucie i gryzienie – rozwijają się przed mową.",
-    "category": "Rozwój mowy"
+    "question": "Czym charakteryzuje się afazja semantyczna?",
+    "answer": "Zaburzenia syntezy równoczesnej przy rozumieniu złożonych konstrukcji słownych, problemy ze zrozumieniem relacji logiczno-gramatycznych, trudności w określaniu czasu i kierunku.",
+    "category": "Zaburzenia mowy"
   },
   {
     "id": 8,
-    "question": "Dlaczego oddech przez nos jest preferowany?",
-    "answer": "Ponieważ oczyszcza, ogrzewa i nawilża powietrze oraz poprawia pobór tlenu.",
-    "category": "Oddychanie"
+    "question": "Jakie są główne różnice między afazją a zaburzeniami mowy w demencji?",
+    "answer": "Afazja wiąże się z ogniskowymi uszkodzeniami mózgu, a demencja z wieloogniskowymi zmianami. Afazja może się poprawiać, demencja ma charakter postępujący.",
+    "category": "Zaburzenia mowy"
   },
   {
     "id": 9,
-    "question": "Jakie elementy składają się na aparat głosowy?",
-    "answer": "Część motoryczna (oddechowa), głosotwórcza (krtań), artykulacyjno-rezonansowa (jama ustna, nosowa, gardło).",
-    "category": "Anatomia"
+    "question": "Co to są nie-teksty w logopedii?",
+    "answer": "Zachowania z dominacją komunikacji pozasłownej lub wypowiedzi budowane przy użyciu znaków języka, których uporządkowanie nie pozwala zdekodować intencji nadawcy.",
+    "category": "Logopedia"
   },
   {
     "id": 10,
-    "question": "Czym jest ton krtaniowy?",
-    "answer": "To podstawowy dźwięk powstały w krtani w wyniku fonacji.",
-    "category": "Akustyka"
+    "question": "Jakie są główne cele terapii jąkania chronicznego?",
+    "answer": "Uwolnienie od poczucia lęku, zmniejszenie reakcji unikania, redukcja objawów niepłynności w mowie, osiągnięcie płynności spontanicznej lub kontrolowanej.",
+    "category": "Terapia"
+  },
+  {
+    "id": 11,
+    "question": "Jakie są kryteria wyodrębniania zaburzeń mowy pochodzenia korowego?",
+    "answer": "Biologiczne (uszkodzenia OUN), temporalne (czas wystąpienia), symptomatologiczne (objawy) i dynamika ustępowania.",
+    "category": "Zaburzenia mowy"
+  },
+  {
+    "id": 12,
+    "question": "Czym charakteryzuje się dyzartria hiperkinetyczna?",
+    "answer": "Zmienne napięcie mięśni aparatu mowy, ruchy mimowolne (pląsawicze, mioklonie, tiki), zaburzenia oddechowe i fonacyjne.",
+    "category": "Zaburzenia mowy"
+  },
+  {
+    "id": 13,
+    "question": "Co to jest oligofazja?",
+    "answer": "Zaburzenia mowy występujące u osób z niepełnosprawnością intelektualną, objawiające się zniekształceniem treści, formy i substancji języka.",
+    "category": "Zaburzenia mowy"
+  },
+  {
+    "id": 14,
+    "question": "Jakie są rodzaje sieci neuropoznawczych według Mesulama?",
+    "answer": "Świadomości przestrzennej, językowej, pamięciowo-emocjonalnej, pamięci operacyjnej i funkcji wykonawczych, rozpoznawania przedmiotów i twarzy.",
+    "category": "Neurologia"
+  },
+  {
+    "id": 15,
+    "question": "Co to jest anartria?",
+    "answer": "Znaczne nasilenie dyzartrii, przy którym następuje całkowita niemożność wypowiadania słów lub mowa staje się skrajnie bełkotliwa i niezrozumiała.",
+    "category": "Zaburzenia mowy"
+  },
+  {
+    "id": 16,
+    "question": "Jakie są objawy alalii?",
+    "answer": "Opóźniony początek rozwoju mowy, zaburzenia artykulacyjne, ograniczony słownik, uboga gramatyka, brak zdolności narracyjnych.",
+    "category": "Zaburzenia mowy"
+  },
+  {
+    "id": 17,
+    "question": "Co to jest dyzartria wiotka?",
+    "answer": "Zaburzenie powstające na skutek uszkodzenia neuronów ruchowych nerwów czaszkowych, charakteryzujące się osłabieniem siły i napięcia mięśni.",
+    "category": "Zaburzenia mowy"
+  },
+  {
+    "id": 18,
+    "question": "Jakie są etapy rozwoju mózgu w okresie niemowlęcym?",
+    "answer": "Intensywny rozwój sieci neuronalnej, plastyczność mózgu, sekwencyjny rozwój umiejętności, kształtowanie się podstawowych funkcji poznawczych.",
+    "category": "Neurologia"
+  },
+  {
+    "id": 19,
+    "question": "Co to jest dyzartria ataktyczna?",
+    "answer": "Zaburzenie będące skutkiem uszkodzenia lub dysfunkcji móżdżku, charakteryzujące się utratą koordynacji funkcji mięśniowych i zaburzeniami rytmu mowy.",
+    "category": "Zaburzenia mowy"
+  },
+  {
+    "id": 20,
+    "question": "Jakie są główne objawy demencji typu alzheimerowskiego w zakresie mowy?",
+    "answer": "Długie pauzy, niekończenie fraz, uproszczenie syntaktyki, parafazje semantyczne, zaburzenia nazywania, utrata kontroli nad wypowiedzią.",
+    "category": "Zaburzenia mowy"
+  },
+  {
+    "id": 21,
+    "question": "Co to jest SLI?",
+    "answer": "Specyficzne zaburzenie rozwoju mowy i języka, gdzie deficyt językowy występuje bez innych zaburzeń rozwojowych.",
+    "category": "Zaburzenia mowy"
+  },
+  {
+    "id": 22,
+    "question": "Jakie są fazy jąkania?",
+    "answer": "Faza jąkania klonicznego (powtarzanie głosek), tonicznego (przeciąganie/blokowanie) i kloniczno-tonicznego (połączenie obu).",
+    "category": "Zaburzenia mowy"
+  },
+  {
+    "id": 23,
+    "question": "Co to jest afazja pierwotna postępująca?",
+    "answer": "Zaburzenie mowy spowodowane lateralnymi zanikami mózgu, gdzie przez długi czas zaburzenia językowe są jedynym widocznym deficytem.",
+    "category": "Zaburzenia mowy"
+  },
+  {
+    "id": 24,
+    "question": "Jakie są typy otępienia?",
+    "answer": "Pierwotne (choroba Alzheimera, czołowo-skroniowe) i wtórne (wielozawałowe, naczyniopochodne).",
+    "category": "Neurologia"
+  },
+  {
+    "id": 25,
+    "question": "Co to jest mowa limbiczna?",
+    "answer": "Najstarszy poziom komunikowania się, związany z układem limbicznym, odpowiedzialny za przekazywanie emocji i komunikację pozawerbalną.",
+    "category": "Mowa"
+  },
+  {
+    "id": 26,
+    "question": "Jakie są główne etapy diagnozy oligofazji?",
+    "answer": "Ocena rozwoju psychofizycznego warunkującego nabywanie języka oraz ocena jakości zachowań werbalnych.",
+    "category": "Diagnostyka"
+  },
+  {
+    "id": 27,
+    "question": "Co to jest dyzartria hipokinetyczna?",
+    "answer": "Zaburzenie powstające w chorobie Parkinsona, charakteryzujące się sztywnością mięśni, spowolnieniem ruchów i monotonną mową.",
+    "category": "Zaburzenia mowy"
+  },
+  {
+    "id": 28,
+    "question": "Jakie są podstawowe objawy niepłynności mówienia?",
+    "answer": "Powtarzanie głosek/sylab/wyrazów, przeciąganie, blokowanie, embolofazje, poprawianie, zaburzenia tempa mówienia.",
+    "category": "Zaburzenia mowy"
+  },
+  {
+    "id": 29,
+    "question": "Co to jest adiadochokineza?",
+    "answer": "Niezdolność wykonywania naprzemiennych ruchów, np. przy wymawianiu sylab i-o-i-o.",
+    "category": "Zaburzenia mowy"
+  },
+  {
+    "id": 30,
+    "question": "Jakie są różnice między SORM a NORM?",
+    "answer": "SORM (samoistny) wynika z różnic indywidualnych w rozwoju, NORM (niesamoistny) jest spowodowany konkretnymi czynnikami patologicznymi.",
+    "category": "Zaburzenia mowy"
+  },
+  {
+    "id": 31,
+    "question": "Co to jest propriocepcja?",
+    "answer": "Zmysł orientacji ułożenia części własnego ciała, kluczowy dla rozwoju mowy i kinestezji artykulacyjnej.",
+    "category": "Fizjologia"
+  },
+  {
+    "id": 32,
+    "question": "Jakie są główne obszary zaburzeń w MPD?",
+    "answer": "Zaburzenia posturalne, zmysłowe (propriocepcja, dotyk, układ przedsionkowy, słuch, wzrok) oraz rozwoju intelektualnego.",
+    "category": "Zaburzenia rozwojowe"
+  },
+  {
+    "id": 33,
+    "question": "Co to jest kinestezja artykulacyjna?",
+    "answer": "Czucie ułożenia narządów mowy podczas artykulacji, kluczowe dla prawidłowej wymowy.",
+    "category": "Fizjologia"
+  },
+  {
+    "id": 34,
+    "question": "Jakie są rodzaje tekstów w logopedii?",
+    "answer": "Teksty prawidłowe (spójne gramatycznie i semantycznie), teksty patologiczne (z zachowaną intencją) i nie-teksty (bez możliwości odkodowania intencji).",
+    "category": "Logopedia"
+  },
+  {
+    "id": 35,
+    "question": "Co to jest palilalia?",
+    "answer": "Mimowolne wielokrotne i coraz szybsze powtarzanie początkowych sylab lub całych słów, występujące np. w chorobie Parkinsona.",
+    "category": "Zaburzenia mowy"
+  },
+  {
+    "id": 36,
+    "question": "Jakie są etapy terapii jąkania według Van Ripera?",
+    "answer": "Motywacyjny, identyfikacji problemu, wdrażania zmian, modyfikacji jąkania, stabilizacji nabytych umiejętności.",
+    "category": "Terapia"
+  },
+  {
+    "id": 37,
+    "question": "Co to jest simultanognosia?",
+    "answer": "Zaburzenie percepcji wzrokowej polegające na niemożności jednoczesnego postrzegania kilku elementów obrazu, występujące np. w demencji.",
+    "category": "Zaburzenia poznawcze"
+  },
+  {
+    "id": 38,
+    "question": "Jakie są główne sieci neuropoznawcze według Mesulama?",
+    "answer": "Świadomości przestrzennej, językowa, pamięciowo-emocjonalna, pamięci operacyjnej i funkcji wykonawczych, rozpoznawania przedmiotów i twarzy.",
+    "category": "Neurologia"
+  },
+  {
+    "id": 39,
+    "question": "Co to jest aleksja?",
+    "answer": "Utrata zdolności czytania przy zachowanej ostrości wzroku, występująca np. w afazji lub demencji.",
+    "category": "Zaburzenia mowy"
+  },
+  {
+    "id": 40,
+    "question": "Jakie są kryteria różnicowania dyzartrii i anartrii?",
+    "answer": "Stopień nasilenia zaburzeń, możliwość realizacji mowy, rokowania terapeutyczne, współwystępowanie innych zaburzeń neurologicznych.",
+    "category": "Zaburzenia mowy"
   }
 ]
